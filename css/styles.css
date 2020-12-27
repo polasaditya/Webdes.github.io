@@ -1,0 +1,153 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  color: #532e1c;
+  font-size: 5.625rem;
+  margin-top: 50px auto 0 auto;
+  font-family: Crushed;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Langar', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 30px;
+}
+p{
+  font-size: 2rem;
+}
+a{
+  color: #11999E;
+  font-family: 'Langar', cursive;
+  margin: 10px 40px;
+  text-decoration: none;
+}
+.sides1{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.sides2{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.profile{
+  padding-top: 80px;
+  background-color: #eff8ff;
+  margin: 0;
+}
+.skills{
+  background-color: #93a5ab;
+  display: grid;
+  padding-bottom: 50px;
+}
+
+.intro{
+  font-size: 5rem;
+  color: #224854;
+  padding-bottom:0;
+  margin-bottom: 0;
+}
+.dark{
+  color: #224854;
+}
+.skill-row{
+  width: 50%;
+  margin: 30px auto 20px auto;
+  text-align: left;
+  font-size: 2rem;
+}
+
+.rabbit{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.man{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.contact-me{
+  background-color: #a4c4cc;
+  display: grid;
+}
+.lot{
+  background-color: #ffe5b9;
+  position: relative;
+  padding-top: 100px;
+}
+.inter{
+  width:30%;
+  margin: auto;
+  padding-bottom: 50px;
+}
+.access{
+  font-size: 3.5rem;
+    color: #224854;
+    margin-bottom: 0;
+}
+.bada{
+  margin-bottom: 0;
+  font-size: 1.526rem;
+}
+.web{
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btn {
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  text-shadow: 4px 6px 4px #666666;
+  -webkit-box-shadow: 6px 6px 8px #666666;
+  -moz-box-shadow: 6px 6px 8px #666666;
+  box-shadow: 6px 6px 8px #666666;
+  font-family: Georgia;
+  color: #d0dde1;
+  font-size: 31px;
+  padding: 10px;
+  background: #4e8292;
+  border: dotted #50616b 2px;
+  text-decoration: none;
+  width: 30%;
+  margin: 0 auto 30px;
+}
+
+.btn:hover {
+  background: #a4c4cb;
+  background-image: -webkit-linear-gradient(top, #a4c4cb, #636565);
+  background-image: -moz-linear-gradient(top, #a4c4cb, #636565);
+  background-image: -ms-linear-gradient(top, #a4c4cb, #636565);
+  background-image: -o-linear-gradient(top, #a4c4cb, #636565);
+  background-image: linear-gradient(to bottom, #a4c4cb, #636565);
+  text-decoration: none;
+}
+.bottom-container{
+
+  background-color: #00303f;
+  color: white;
+  padding-top: 60px;
+  padding-bottom: 0;
+}
+.copy{
+  font-size: 0.5rem;
+  margin-top:50px;
+  margin-bottom: 0;
+}
+a:hover{
+  color: #EAF6F6;
+}
